@@ -1,5 +1,5 @@
-<img src="images/icons/128.png" align="right" />
-# HIDEN [![FTK](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+<img src="images/icons.128.png" align="right" />
+# HIDEN [![Hiden](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/aneopsy)
 > Don't Panic, Just Hiden
 
 Hiden est un moyen facile de se cacher tous vos onglets en même temps en un seul clic. Elle enregistre des onglets ouverts sous forme de signets dans un dossier séparé, après quoi il vire au vert et vous montre le nombre d'onglets cachés.
